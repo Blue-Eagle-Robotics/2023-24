@@ -1,0 +1,1 @@
+Welcome! This is the code for Team Eagle Eyed's 2024 season robot. We based our code off of [BaseTalonFXSwerve](https://github.com/dirtbikerxz/BaseTalonFXSwerve)

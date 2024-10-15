@@ -1,0 +1,52 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 3.4866439657691353,
+        "y": 6.316426066436093
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 4.486643965769135,
+        "y": 6.316426066436093
+      },
+      "isLocked": false,
+      "linkedName": "BetterAmpSidePath"
+    },
+    {
+      "anchor": {
+        "x": 7.015201198322196,
+        "y": 7.38630930895947
+      },
+      "prevControl": {
+        "x": 6.015201198322196,
+        "y": 7.38630930895947
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "LineUpTo4End"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 4.5,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 0,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": "BetterAmpSideAuto",
+  "previewStartingState": {
+    "rotation": 20.95577673063223,
+    "velocity": 0
+  },
+  "useDefaultConstraints": true
+}

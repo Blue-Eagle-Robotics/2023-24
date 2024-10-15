@@ -1,0 +1,52 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 2.9105529890257786,
+        "y": 3.209649727570132
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 3.939286876067486,
+        "y": 2.7878688338830315
+      },
+      "isLocked": false,
+      "linkedName": "BetterSourceSidePath"
+    },
+    {
+      "anchor": {
+        "x": 6.840316437525107,
+        "y": 5.123094757467711
+      },
+      "prevControl": {
+        "x": 5.48238770663005,
+        "y": 3.8680394152768263
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 4.5,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 58.24051991518742,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": "BetterSourceSideAuto",
+  "previewStartingState": {
+    "rotation": -28.141601232261753,
+    "velocity": 0
+  },
+  "useDefaultConstraints": true
+}

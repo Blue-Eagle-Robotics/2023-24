@@ -1,0 +1,52 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 7.220947975730539,
+        "y": 2.4278119734184336
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 4.968020763109196,
+        "y": 1.100745259134629
+      },
+      "isLocked": false,
+      "linkedName": "LineUpTo7End"
+    },
+    {
+      "anchor": {
+        "x": 3.3631958993241295,
+        "y": 3.0039029501617907
+      },
+      "prevControl": {
+        "x": 4.24790704218,
+        "y": 2.623271411956358
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "Qual13Auto"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 4.5,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": -32.38067770656927,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": "Qual13Auto",
+  "previewStartingState": {
+    "rotation": 0,
+    "velocity": 0
+  },
+  "useDefaultConstraints": true
+}

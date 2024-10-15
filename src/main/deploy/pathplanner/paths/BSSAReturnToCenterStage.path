@@ -1,0 +1,52 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 6.8197417597842716,
+        "y": 4.032636837203499
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 5.924743278057985,
+        "y": 4.0840735315555845
+      },
+      "isLocked": false,
+      "linkedName": "LineUpTo6End"
+    },
+    {
+      "anchor": {
+        "x": 4.896009391016276,
+        "y": 4.0532115149443335
+      },
+      "prevControl": {
+        "x": 5.173767540517537,
+        "y": 4.0429241760739165
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "BSSAReturnToCenterStageEnd"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 4.5,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 0.0,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": "BetterSourceSideAuto",
+  "previewStartingState": {
+    "rotation": 0,
+    "velocity": 0
+  },
+  "useDefaultConstraints": true
+}
